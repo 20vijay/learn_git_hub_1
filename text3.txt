@@ -1,1 +1,2 @@
 this is text 3 file
+this is a new line added to text3.txt file
